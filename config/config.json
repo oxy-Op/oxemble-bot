@@ -1,0 +1,24 @@
+{   
+    "prefix":"!",
+    "owner_id":123,
+    "giphy_api_key":"",
+    "activity":["Prefix: ! | Listening !help",
+                   "https://github.com/oxy-Op", "One xemble a day keeps sadness away"],
+    "token": "your_bot_token",
+    "balance":"your balance is ",
+    "emoji" : ["<:coin1:1115740536981164053>",
+                "<:coin2:1115740556094603314>"],
+    "database":{
+        "host":"localhost",
+        "port": 3304,
+        "user":"root",
+        "pass":"",
+        "database":"oxemble"
+    },
+    "redis":{
+        "host":"localhost",
+        "port": 6379,
+        "pass":""
+    }
+
+}

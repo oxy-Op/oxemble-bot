@@ -1,0 +1,4 @@
+discord
+requests
+sql-connector
+redis
